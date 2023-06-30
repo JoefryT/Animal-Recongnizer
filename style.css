@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(5, 209, 209);
+}
+.header_div{
+    background-color: aquamarine;
+}
+.header_div p{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 10px;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+.main_div button{
+    font-family: 'Roboto Slab', serif;
+    margin-top: 10px;
+    font-weight:12px;
+    width:100px ;
+    letter-spacing: 1px;
+}
+.copy_right_footer{
+    background-color: lightgray;
+    font-size: 10px;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    text-shadow: 5px 5px 5px rgb(151, 149,149);
+}
